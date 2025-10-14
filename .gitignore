@@ -125,6 +125,7 @@ InitTestScene*.unity*
 # These are the source archives for UPM packages and are huge.
 *.tgz
 *.gz
+*.tgz.meta
 /Assets/Editor/Migration/*.tgz
 
 
