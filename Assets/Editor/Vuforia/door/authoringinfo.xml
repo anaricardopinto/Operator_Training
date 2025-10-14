@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.1.3">
+<ModelTarget name="door" targetId="4037e106997245af94410a0248bacc13" version="14.0" toolVersion="11.1.3" bbox="-0.613150 -0.000000 -0.129715 0.613150 1.416671 0.129715" previewImage="4037e106997245af94410a0248bacc13_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="doors_assembly" assemblyId="ccb1e5da89854e90a6709ddbb5cb4cde">
+<Part name="door" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="back_right" translation="-0.0189737 0.64111 3.8662" rotation="AD: 0.866871 -0.539319 2.51451 187.839" image="door_back_right.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="back_left" translation="-0.00464356 0.703638 3.54733" rotation="AD: -0.999883 0.016565 2.43348 180.296" image="door_back_left.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="back_Straight" translation="0.0573661 0.651935 3.15478" rotation="AD: 0.150422 -0.989429 24.7648 180.028" image="door_back_Straight.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="front_right" translation="-0.110048 0.581034 3.88799" rotation="AD: 0.999818 0.0442746 -0.479811 189.504" image="door_front_right.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="front_left" translation="-0.0432175 0.623123 3.67756" rotation="AD: 0.99953 -0.0608128 0.58788 190.177" image="door_front_left.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="front_left2" translation="-0.0891013 0.616622 3.73221" rotation="AD: 0.999874 -0.0468354 0.363987 193.775" image="door_front_left2.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="front_left3" translation="0.123323 0.603816 3.18064" rotation="AD: 0.999901 -0.0396093 0.382905 191.028" image="door_front_left3.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

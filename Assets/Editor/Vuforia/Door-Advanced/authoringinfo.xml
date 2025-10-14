@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="Door-Advanced" targetId="e7286263559646adb23c283fa895d740" bbox="-0.613150 -0.000000 -0.129715 0.613150 1.416671 0.129715" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="rear_view_mirror" targetId="69519c3801a74e3dab4448a355f9c2a3" bbox="-0.147740 -0.000000 -0.089631 0.178803 0.195175 0.072773" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Door-Advanced" assemblyId="7d01cc395b1a4471a204b105f308fa7f">
+        <Part name="Door-Advanced" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="rear_view_mirror" assemblyId="00c49cd62ef141bfaf10fb190d40c891">
+        <Part name="rear_view_mirror" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="652733b34dd54660a98201b1b262d768" name="Door-Advanced" toolVersion="v7.3.1" version="36.0" />
+</QCARInfo>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.1.3">
+<ModelTarget name="Rear_View_Mirror_Target" targetId="ea1d6bb0c4584475bd338bc5ff3b993b" version="14.0" toolVersion="11.1.3" bbox="-0.147740 -0.000000 -0.089631 0.178803 0.195175 0.072773" previewImage="ea1d6bb0c4584475bd338bc5ff3b993b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Rear_View_Mirror_Targets_assembly" assemblyId="a5f214835ca94850b49c1ce0cec3a5ab">
+<Part name="Rear_View_Mirror_Target" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_far" translation="-0.0209913 0.0640837 1.21528" rotation="AD: -0.941777 -0.364626 2.43088 173.856" image="Rear_View_Mirror_Target_GuideView_far.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_back-close" translation="-0.0209913 0.0640837 0.695926" rotation="AD: -0.941777 -0.364626 2.43088 173.856" image="Rear_View_Mirror_Target_GuideView_back-close.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_front-side" translation="0.0340856 0.0629997 0.695728" rotation="AD: 0.998161 -0.13089 0.540967 203.865" image="Rear_View_Mirror_Target_GuideView_front-side.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_front-side2" translation="0.0384473 0.0853687 0.672024" rotation="AD: 0.999999 0.0183651 -0.0732386 208.077" image="Rear_View_Mirror_Target_GuideView_front-side2.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
