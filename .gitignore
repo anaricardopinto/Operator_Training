@@ -97,3 +97,28 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# VUFORIA/MRTK/LICENSE FILES
+# -------------------------------------
+# Contains the Vuforia license key (API key)
+/Assets/VuforiaConfiguration.asset
+
+# Contains the Unity Services Project ID and Cloud build settings
+/ProjectSettings/UnityConnectSettings.asset
+
+# Exclude any dynamically generated files that may contain keys
+# (Especially common in the Assets/Resources folder if you load keys from there)
+/Assets/Resources/APIKeys.*
+/Assets/Resources/Config/Keys.json
+
+# HOLOLENS/UWP BUILD OUTPUT
+# -------------------------------------
+# Intermediate folder created by Unity for UWP/HoloLens builds
+/UWP/GeneratedProjects/
+/WSAPlayer_Temp/
+
+# MISCELLANEOUS IDE / PROJECT SETTINGS
+# -------------------------------------
+*.csproj.user
+
+
