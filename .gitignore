@@ -121,4 +121,10 @@ InitTestScene*.unity*
 # -------------------------------------
 *.csproj.user
 
+# EXCLUDE LARGE COMPRESSED PACKAGE ARCHIVES
+# These are the source archives for UPM packages and are huge.
+*.tgz
+*.gz
+/Assets/Editor/Migration/*.tgz
+
 
