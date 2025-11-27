@@ -1,0 +1,10 @@
+# Mixed Reality System for On-the-Job Training in Industrial Operations
+
+This repository contains the source code and project files developed for the dissertation:
+
+**“Mixed Reality System for On-the-Job Training in Industrial Operations.”**
+
+The project implements a Mixed Reality training system using **Unity**, **MRTK**, and **Vuforia Model Targets** to guide operators through an industrial assembly task with spatially aligned holographic instructions and real-time feedback.
+
+📄 **Full Dissertation:**  
+[Download the full dissertation (PDF)](https://sigarra.up.pt/feup/pt/pub_geral.show_file?pi_doc_id=497250)
