@@ -8,3 +8,5 @@ The project implements a Mixed Reality training system using **Unity**, **MRTK**
 
 📄 **Full Dissertation:**  
 [Download the full dissertation (PDF)](https://sigarra.up.pt/feup/pt/pub_geral.show_file?pi_doc_id=497250)
+
+![hololens-full_dialog_confirmation_click](https://github.com/user-attachments/assets/967f50e6-2a72-4a82-aca6-1e0df041f245)
